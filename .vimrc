@@ -15,3 +15,6 @@ set mouse-=a
 
 " Enable syntax highlighting
 syntax on
+
+" Show hints
+set showcmd
