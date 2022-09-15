@@ -3,7 +3,7 @@ set nu
 set rnu
 
 " Use true-color
-set termguicolors
+"set termguicolors
 
 " For python
 set tabstop=4
